@@ -857,6 +857,17 @@ border: none;
 fill: #F4F4FD;
 } 
 
+.check-text {
+   font-size: 12px;
+    line-height: 1.17;
+    font-weight: 400;
+    color: #8e8f99;
+    letter-spacing: 0.04em;
+    /*display: flex;*/
+    align-items: center;
+    margin-bottom: 24px;
+}
+
 .checkbox-span {
     width: 16px;
     height: 16px;
@@ -872,15 +883,7 @@ fill: #F4F4FD;
 
 }
 
-.check-text {
-   font-size: 12px;
-    line-height: 1.17;
-    font-weight: 400;
-    color: #8e8f99;
-    letter-spacing: 0.04em;
-    display: flex;
-    align-items: center;
-}
+
 
 .privacy-policy {
     color: #4D5AE5;
