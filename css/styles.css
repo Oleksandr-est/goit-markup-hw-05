@@ -865,8 +865,7 @@ fill: #F4F4FD;
     letter-spacing: 0.04em;
     /*display: flex;*/
     align-items: center;
-    margin-bottom: 24px;
-}
+  }
 
 .checkbox-span {
     width: 16px;
@@ -909,6 +908,7 @@ fill: #F4F4FD;
     cursor: pointer;
     min-width: 169px;
     height: 56px;
+    margin-top: 24px;
    /*margin-top: 24px;
    margin-bottom: 24px;
    margin-left: 119px;
